@@ -9,7 +9,7 @@ public class ItemController {
          System.out.println("Update Item Controller");
     }
     public void getItem(){
-
+        System.out.println("Get Item Controller");
     }
 
     public void getAllItems(){
