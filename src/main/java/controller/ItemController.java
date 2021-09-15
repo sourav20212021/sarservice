@@ -13,7 +13,7 @@ public class ItemController {
     }
 
     public void getAllItems(){
-
+        System.out.println("Get All Items Controller");
     }
     public void deleteItem(){
 
